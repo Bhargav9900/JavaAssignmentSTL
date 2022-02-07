@@ -1,0 +1,11 @@
+package com.sterlite.threading;
+
+public class RunnableLambdaDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Runnable re = ()->System.out.println("Running");
+	}
+
+}

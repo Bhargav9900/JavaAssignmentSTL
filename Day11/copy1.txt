@@ -1,0 +1,3 @@
+A
+Hello There,
+It is assignment of File Handeling 

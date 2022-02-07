@@ -1,0 +1,16 @@
+package com.sterlite.collections;
+import java.util.*;
+public class DequeDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Deque<Integer> dq = new LinkedList<Integer>();
+		dq.add(500);
+		dq.addLast(300);
+		dq.addFirst(700);
+		dq.addFirst(200);
+		dq.addLast(800);
+	}
+
+}

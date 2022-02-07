@@ -1,0 +1,11 @@
+package com.sterlite.threading;
+
+import com.sterlite.account.Account;
+
+public class AccountThread extends Thread {
+
+	private Account acc;
+	private double amount;
+	private boolean flag;
+	
+}

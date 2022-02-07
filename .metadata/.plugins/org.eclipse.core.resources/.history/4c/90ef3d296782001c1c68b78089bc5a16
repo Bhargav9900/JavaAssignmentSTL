@@ -1,0 +1,5 @@
+package com.sterlite.collection;
+
+public interface MyMath {
+
+}

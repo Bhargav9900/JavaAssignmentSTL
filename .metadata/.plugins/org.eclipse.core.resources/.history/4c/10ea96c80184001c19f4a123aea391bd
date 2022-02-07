@@ -1,0 +1,18 @@
+package com.sterlite.calc;
+
+public class Data {
+
+	private int arr[];
+
+	public Data(int[] arr) {
+		//super();
+		this.arr = arr;
+	}
+
+	public int[] getArr() {
+		return arr;
+	}
+	
+	
+	
+}

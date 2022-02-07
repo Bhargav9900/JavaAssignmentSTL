@@ -1,0 +1,26 @@
+package com.sterlite.calc.threads;
+
+import com.sterlite.calc.Data;
+
+public class CalculatorThread extends Thread {
+
+	private Data data;
+
+	public CalculatorThread(Data data) {
+		super();
+		this.data = data;
+	}
+
+	@Override
+	public void run() {
+		
+		int arr [] = data.getArr();
+		int sum = 0;
+		for(int ele : arr) {
+			sum+=ele;
+		}
+	}
+	
+	
+	
+}

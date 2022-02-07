@@ -1,0 +1,17 @@
+/*
+ * @author bhargav.bechara@stltech.in
+ * @date 03-02-2021
+ * @version 1.0
+ * @copyright Sterlite Technologies Ltd. All rights reserved.
+ * @description File reading and writing operation
+ */
+package com.sterlite.io;
+
+public class CopyFileByteDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

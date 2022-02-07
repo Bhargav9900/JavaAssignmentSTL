@@ -1,0 +1,5 @@
+package com.sterlite.calc.threads;
+
+public class CalculatorThread extends Thread {
+
+}

@@ -1,0 +1,5 @@
+package com.sterlite.threading;
+
+public class MyThread extends Thread {
+
+}
