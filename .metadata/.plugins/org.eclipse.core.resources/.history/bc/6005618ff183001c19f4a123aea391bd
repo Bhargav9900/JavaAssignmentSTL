@@ -1,5 +1,0 @@
-package com.sterlite.threading;
-
-public class AccountThread extends Thread {
-
-}
